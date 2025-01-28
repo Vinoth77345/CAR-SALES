@@ -1,1 +1,3 @@
 # CAR-SALES
+![Car sales img](https://github.com/user-attachments/assets/84186f68-497e-4c0c-a611-78cd2d0de9c7)
+In this beginner-friendly Power BI tutorial, we dive into the world of data analysis by exploring car sales in Norway. Follow along as we create an interactive Power BI dashboard to visualize key metrics such as units sold, total revenue, market share, and more. Learn step-by-step how to import data, create visualizations, and gain insights from your data using Power BI. No prior experience with Power BI is required, making this tutorial perfect for beginners. Start your data analysis journey today with Power BI and unlock the power of visualizing car sales data in Norway!
